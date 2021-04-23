@@ -1,3 +1,3 @@
-# nodejs-desafio-corrigindo-codigo
+# Desafio: Corrigindo codigo
 
 Desafio simples usando Nodejs
